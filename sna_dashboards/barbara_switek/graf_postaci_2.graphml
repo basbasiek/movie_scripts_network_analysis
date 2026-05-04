@@ -1,0 +1,523 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="CHLOE">
+  <data key="d0">CHLOE</data>
+</node>
+<node id="CHRISTOF">
+  <data key="d0">CHRISTOF</data>
+</node>
+<node id="MERYL">
+  <data key="d0">MERYL</data>
+</node>
+<node id="TRUMAN">
+  <data key="d0">TRUMAN</data>
+</node>
+<node id="SIMEON">
+  <data key="d0">SIMEON</data>
+</node>
+<node id="MARLON">
+  <data key="d0">MARLON</data>
+</node>
+<node id="MOSES">
+  <data key="d0">MOSES</data>
+</node>
+<node id="ROMAN">
+  <data key="d0">ROMAN</data>
+</node>
+<node id="LAWRENCE">
+  <data key="d0">LAWRENCE</data>
+</node>
+<node id="OPERATOR">
+  <data key="d0">OPERATOR</data>
+</node>
+<node id="FATHER">
+  <data key="d0">FATHER</data>
+</node>
+<node id="WOMAN">
+  <data key="d0">WOMAN</data>
+</node>
+<node id="YOUTH 1">
+  <data key="d0">YOUTH 1</data>
+</node>
+<node id="RAQUEL">
+  <data key="d0">RAQUEL</data>
+</node>
+<node id="LAUREN">
+  <data key="d0">LAUREN</data>
+</node>
+<node id="SYLVIA">
+  <data key="d0">SYLVIA</data>
+</node>
+<node id="VERONICA">
+  <data key="d0">VERONICA</data>
+</node>
+<node id="SECURITY GUARD 2">
+  <data key="d0">SECURITY GUARD 2</data>
+</node>
+<node id="INTERVIEWER">
+  <data key="d0">INTERVIEWER</data>
+</node>
+<node id="VENDOR">
+  <data key="d0">VENDOR</data>
+</node>
+<node id="DOUGLAS">
+  <data key="d0">DOUGLAS</data>
+</node>
+<node id="SISTER">
+  <data key="d0">SISTER</data>
+</node>
+<node id="FEMALE CASHIER">
+  <data key="d0">FEMALE CASHIER</data>
+</node>
+<node id="MALE CUSTOMER">
+  <data key="d0">MALE CUSTOMER</data>
+</node>
+<node id="TYRONE">
+  <data key="d0">TYRONE</data>
+</node>
+<node id="COMMUTER 1">
+  <data key="d0">COMMUTER 1</data>
+</node>
+<node id="COMMUTER 2">
+  <data key="d0">COMMUTER 2</data>
+</node>
+<node id="CONCIERGE">
+  <data key="d0">CONCIERGE</data>
+</node>
+<node id="YOUTH 2">
+  <data key="d0">YOUTH 2</data>
+</node>
+<node id="GUARD 1">
+  <data key="d0">GUARD 1</data>
+</node>
+<node id="GUARD 2">
+  <data key="d0">GUARD 2</data>
+</node>
+<node id="OLD WOMAN 1">
+  <data key="d0">OLD WOMAN 1</data>
+</node>
+<node id="OLD WOMAN 2">
+  <data key="d0">OLD WOMAN 2</data>
+</node>
+<node id="ATTENDANT">
+  <data key="d0">ATTENDANT</data>
+</node>
+<node id="RACQUEL">
+  <data key="d0">RACQUEL</data>
+</node>
+<node id="GIRLFRIEND 1">
+  <data key="d0">GIRLFRIEND 1</data>
+</node>
+<node id="MAN">
+  <data key="d0">MAN</data>
+</node>
+<node id="SECURITY GUARD 1">
+  <data key="d0">SECURITY GUARD 1</data>
+</node>
+<node id="OFFICIAL">
+  <data key="d0">OFFICIAL</data>
+</node>
+<node id="BOY">
+  <data key="d0">BOY</data>
+</node>
+<node id="JOGGER 1">
+  <data key="d0">JOGGER 1</data>
+</node>
+<node id="JOGGER 2">
+  <data key="d0">JOGGER 2</data>
+</node>
+<node id="NARRATOR">
+  <data key="d0">NARRATOR</data>
+</node>
+<node id="SECURITY GUARD">
+  <data key="d0">SECURITY GUARD</data>
+</node>
+<node id="AGENT">
+  <data key="d0">AGENT</data>
+</node>
+<node id="PROD. MANAGER">
+  <data key="d0">PROD. MANAGER</data>
+</node>
+<node id="INSURANCE AGENT">
+  <data key="d0">INSURANCE AGENT</data>
+</node>
+<node id="YOUNG MOTHER">
+  <data key="d0">YOUNG MOTHER</data>
+</node>
+<node id="OFFICER">
+  <data key="d0">OFFICER</data>
+</node>
+<node id="FEMALE CALLER 1">
+  <data key="d0">FEMALE CALLER 1</data>
+</node>
+<node id="MALE CALLER 1">
+  <data key="d0">MALE CALLER 1</data>
+</node>
+<node id="MALE CALLER 3">
+  <data key="d0">MALE CALLER 3</data>
+</node>
+<node id="FEMALE CALLER 2">
+  <data key="d0">FEMALE CALLER 2</data>
+</node>
+<node id="VIVIEN">
+  <data key="d0">VIVIEN</data>
+</node>
+<node id="BARMAN">
+  <data key="d0">BARMAN</data>
+</node>
+<node id="PATRON">
+  <data key="d0">PATRON</data>
+</node>
+<node id="WAITRESS">
+  <data key="d0">WAITRESS</data>
+</node>
+<node id="POLICE OFFICER">
+  <data key="d0">POLICE OFFICER</data>
+</node>
+<node id="CHOPPER PILOT">
+  <data key="d0">CHOPPER PILOT</data>
+</node>
+<node id="CHILD">
+  <data key="d0">CHILD</data>
+</node>
+<node id="GUIDE">
+  <data key="d0">GUIDE</data>
+</node>
+<node id="GUARD">
+  <data key="d0">GUARD</data>
+</node>
+<edge source="CHLOE" target="CHRISTOF">
+  <data key="d1">17</data>
+</edge>
+<edge source="CHLOE" target="SIMEON">
+  <data key="d1">5</data>
+</edge>
+<edge source="CHLOE" target="MOSES">
+  <data key="d1">2</data>
+</edge>
+<edge source="CHLOE" target="ROMAN">
+  <data key="d1">2</data>
+</edge>
+<edge source="CHLOE" target="OPERATOR">
+  <data key="d1">2</data>
+</edge>
+<edge source="CHLOE" target="VERONICA">
+  <data key="d1">1</data>
+</edge>
+<edge source="CHLOE" target="PROD. MANAGER">
+  <data key="d1">1</data>
+</edge>
+<edge source="CHLOE" target="MARLON">
+  <data key="d1">1</data>
+</edge>
+<edge source="CHLOE" target="VIVIEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="CHRISTOF" target="SIMEON">
+  <data key="d1">12</data>
+</edge>
+<edge source="CHRISTOF" target="TRUMAN">
+  <data key="d1">6</data>
+</edge>
+<edge source="CHRISTOF" target="MOSES">
+  <data key="d1">4</data>
+</edge>
+<edge source="CHRISTOF" target="ROMAN">
+  <data key="d1">4</data>
+</edge>
+<edge source="CHRISTOF" target="OPERATOR">
+  <data key="d1">3</data>
+</edge>
+<edge source="CHRISTOF" target="MARLON">
+  <data key="d1">3</data>
+</edge>
+<edge source="CHRISTOF" target="RAQUEL">
+  <data key="d1">2</data>
+</edge>
+<edge source="CHRISTOF" target="LAUREN">
+  <data key="d1">2</data>
+</edge>
+<edge source="CHRISTOF" target="SYLVIA">
+  <data key="d1">2</data>
+</edge>
+<edge source="CHRISTOF" target="INTERVIEWER">
+  <data key="d1">2</data>
+</edge>
+<edge source="CHRISTOF" target="RACQUEL">
+  <data key="d1">1</data>
+</edge>
+<edge source="CHRISTOF" target="VERONICA">
+  <data key="d1">1</data>
+</edge>
+<edge source="CHRISTOF" target="GIRLFRIEND 1">
+  <data key="d1">1</data>
+</edge>
+<edge source="CHRISTOF" target="MAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="CHRISTOF" target="PROD. MANAGER">
+  <data key="d1">1</data>
+</edge>
+<edge source="CHRISTOF" target="MERYL">
+  <data key="d1">1</data>
+</edge>
+<edge source="CHRISTOF" target="FEMALE CALLER 1">
+  <data key="d1">1</data>
+</edge>
+<edge source="CHRISTOF" target="MALE CALLER 1">
+  <data key="d1">1</data>
+</edge>
+<edge source="CHRISTOF" target="MALE CALLER 3">
+  <data key="d1">1</data>
+</edge>
+<edge source="CHRISTOF" target="FEMALE CALLER 2">
+  <data key="d1">1</data>
+</edge>
+<edge source="CHRISTOF" target="LAWRENCE">
+  <data key="d1">1</data>
+</edge>
+<edge source="CHRISTOF" target="VIVIEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="MERYL" target="TRUMAN">
+  <data key="d1">13</data>
+</edge>
+<edge source="MERYL" target="NARRATOR">
+  <data key="d1">1</data>
+</edge>
+<edge source="MERYL" target="OFFICER">
+  <data key="d1">1</data>
+</edge>
+<edge source="MERYL" target="MARLON">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="MARLON">
+  <data key="d1">8</data>
+</edge>
+<edge source="TRUMAN" target="LAWRENCE">
+  <data key="d1">3</data>
+</edge>
+<edge source="TRUMAN" target="FATHER">
+  <data key="d1">2</data>
+</edge>
+<edge source="TRUMAN" target="RAQUEL">
+  <data key="d1">2</data>
+</edge>
+<edge source="TRUMAN" target="LAUREN">
+  <data key="d1">2</data>
+</edge>
+<edge source="TRUMAN" target="VERONICA">
+  <data key="d1">2</data>
+</edge>
+<edge source="TRUMAN" target="SECURITY GUARD 2">
+  <data key="d1">2</data>
+</edge>
+<edge source="TRUMAN" target="VENDOR">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="DOUGLAS">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="SISTER">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="FEMALE CASHIER">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="MALE CUSTOMER">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="TYRONE">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="CONCIERGE">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="ATTENDANT">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="RACQUEL">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="GIRLFRIEND 1">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="MAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="SYLVIA">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="SECURITY GUARD 1">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="OFFICIAL">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="BOY">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="JOGGER 1">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="JOGGER 2">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="NARRATOR">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="SECURITY GUARD">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="AGENT">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="INSURANCE AGENT">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="YOUNG MOTHER">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="OFFICER">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="POLICE OFFICER">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="CHOPPER PILOT">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="CHILD">
+  <data key="d1">1</data>
+</edge>
+<edge source="TRUMAN" target="GUIDE">
+  <data key="d1">1</data>
+</edge>
+<edge source="SIMEON" target="OPERATOR">
+  <data key="d1">3</data>
+</edge>
+<edge source="SIMEON" target="ROMAN">
+  <data key="d1">2</data>
+</edge>
+<edge source="SIMEON" target="MOSES">
+  <data key="d1">2</data>
+</edge>
+<edge source="SIMEON" target="SYLVIA">
+  <data key="d1">1</data>
+</edge>
+<edge source="MARLON" target="VIVIEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="MOSES" target="ROMAN">
+  <data key="d1">3</data>
+</edge>
+<edge source="MOSES" target="OPERATOR">
+  <data key="d1">1</data>
+</edge>
+<edge source="ROMAN" target="OPERATOR">
+  <data key="d1">1</data>
+</edge>
+<edge source="LAWRENCE" target="INSURANCE AGENT">
+  <data key="d1">1</data>
+</edge>
+<edge source="WOMAN" target="YOUTH 1">
+  <data key="d1">2</data>
+</edge>
+<edge source="WOMAN" target="YOUTH 2">
+  <data key="d1">1</data>
+</edge>
+<edge source="WOMAN" target="BARMAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="WOMAN" target="PATRON">
+  <data key="d1">1</data>
+</edge>
+<edge source="WOMAN" target="WAITRESS">
+  <data key="d1">1</data>
+</edge>
+<edge source="YOUTH 1" target="YOUTH 2">
+  <data key="d1">1</data>
+</edge>
+<edge source="RAQUEL" target="RACQUEL">
+  <data key="d1">1</data>
+</edge>
+<edge source="LAUREN" target="GIRLFRIEND 1">
+  <data key="d1">1</data>
+</edge>
+<edge source="LAUREN" target="MAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="LAUREN" target="SYLVIA">
+  <data key="d1">1</data>
+</edge>
+<edge source="SYLVIA" target="MAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="SECURITY GUARD 2" target="SECURITY GUARD 1">
+  <data key="d1">1</data>
+</edge>
+<edge source="SECURITY GUARD 2" target="OFFICIAL">
+  <data key="d1">1</data>
+</edge>
+<edge source="INTERVIEWER" target="FEMALE CALLER 1">
+  <data key="d1">1</data>
+</edge>
+<edge source="INTERVIEWER" target="MALE CALLER 1">
+  <data key="d1">1</data>
+</edge>
+<edge source="INTERVIEWER" target="MALE CALLER 3">
+  <data key="d1">1</data>
+</edge>
+<edge source="INTERVIEWER" target="FEMALE CALLER 2">
+  <data key="d1">1</data>
+</edge>
+<edge source="DOUGLAS" target="SISTER">
+  <data key="d1">1</data>
+</edge>
+<edge source="FEMALE CASHIER" target="MALE CUSTOMER">
+  <data key="d1">1</data>
+</edge>
+<edge source="FEMALE CASHIER" target="TYRONE">
+  <data key="d1">1</data>
+</edge>
+<edge source="MALE CUSTOMER" target="TYRONE">
+  <data key="d1">1</data>
+</edge>
+<edge source="COMMUTER 1" target="COMMUTER 2">
+  <data key="d1">1</data>
+</edge>
+<edge source="GUARD 1" target="GUARD 2">
+  <data key="d1">1</data>
+</edge>
+<edge source="OLD WOMAN 1" target="OLD WOMAN 2">
+  <data key="d1">1</data>
+</edge>
+<edge source="JOGGER 1" target="JOGGER 2">
+  <data key="d1">1</data>
+</edge>
+<edge source="FEMALE CALLER 1" target="MALE CALLER 1">
+  <data key="d1">1</data>
+</edge>
+<edge source="FEMALE CALLER 1" target="MALE CALLER 3">
+  <data key="d1">1</data>
+</edge>
+<edge source="MALE CALLER 1" target="MALE CALLER 3">
+  <data key="d1">1</data>
+</edge>
+<edge source="BARMAN" target="PATRON">
+  <data key="d1">1</data>
+</edge>
+<edge source="BARMAN" target="WAITRESS">
+  <data key="d1">1</data>
+</edge>
+<edge source="PATRON" target="WAITRESS">
+  <data key="d1">1</data>
+</edge>
+<edge source="CHILD" target="GUIDE">
+  <data key="d1">1</data>
+</edge>
+<edge source="GUIDE" target="GUARD">
+  <data key="d1">1</data>
+</edge>
+</graph></graphml>
